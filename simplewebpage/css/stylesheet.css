@@ -1,0 +1,34 @@
+.main-head { 
+    background-color: deepskyblue;
+    width: 100%;
+    position: static;
+    background-image: url("../img/mtn.jpg");
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+}
+
+
+.one {
+    display: block;
+    border: 2px;
+    border-bottom-color: red;
+    padding-bottom: 2 em;
+    
+}
+
+.two {
+    display: block;
+    border: 2px;
+    border-bottom-color: greenyellow;
+    
+}
+
+.footer { 
+    background-color: lightgrey;
+    bottom: 0;
+    width: 100;
+    margin-bottom: -1em;
+    
+
+}
